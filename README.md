@@ -67,14 +67,20 @@
 
 A real-time, AI-powered and crowdsourced travel platform focused on intelligent itinerary sharing, event discovery, real-time updates, and role-based user experiences.
 
-#### Key Features
 
-* JWT Authentication
-* Role-Based Access Control
-* Itinerary Management
-* Event Discovery
-* Real-Time Updates
-* PostgreSQL Database Integration
+
+## Key Features
+
+- JWT Authentication & Authorization
+- Role-Based User Management
+- AI-Powered Travel Recommendations
+- Itinerary Sharing & Management
+- Event Discovery System
+- Real-Time Travel Updates
+- Social Interaction Features
+- PostgreSQL Database Integration
+- RESTful API Architecture
+- Mobile Application using React Native
 
 #### Tech Stack
 
