@@ -60,43 +60,64 @@
 * Object-Oriented Programming (OOP)
 
 ---
-
 ## 🚀 Featured Project
 
-### TravelMate – AI-Powered Travel Platform
+### TravelMate – AI-Powered Travel & Local Experience Platform
 
-A real-time, AI-powered and crowdsourced travel platform focused on intelligent itinerary sharing, event discovery, real-time updates, and role-based user experiences.
+TravelMate is a full-stack travel platform designed to connect travelers, local vendors, and communities through intelligent trip planning and real-time travel experiences.
 
+The platform enables users to discover destinations, share itineraries, collaborate on trips, explore local events, connect with service providers, and receive personalized travel recommendations.
 
-
-## Key Features
+#### Key Features
 
 - JWT Authentication & Authorization
-- Role-Based User Management
+- Multi-Role System (Traveler, Vendor, Admin)
 - AI-Powered Travel Recommendations
-- Itinerary Sharing & Management
-- Event Discovery System
+- Crowdsourced Itinerary Sharing
+- Collaborative Group Trip Planning
+- Event Discovery & Notifications
 - Real-Time Travel Updates
-- Social Interaction Features
+- Vendor & Service Provider Integration
+- Social Features (Posts, Comments, Likes, Follow System)
+- Cultural Exchange & Community Interaction
+- Offline Access Support
 - PostgreSQL Database Integration
 - RESTful API Architecture
-- Mobile Application using React Native
+- Cross-Platform Mobile Application
+
+#### Technical Highlights
+
+- Clean Backend Architecture (Handlers, Services, Repositories)
+- JWT Authentication Middleware
+- PostgreSQL Relational Database Design
+- REST API Development using Golang & Gin
+- Mobile Frontend using React Native & Expo
+- Dockerized Development Environment
+- Real-Time Data Integration
+- Role-Based Access Control (RBAC)
 
 #### Tech Stack
 
-Golang 
-Gin
-Postgresql
-Jwt
-Docker
-React-native
-Expo
-Travel-app
-Rest-api
-Backend
-Mobile-app
+**Frontend**
+- React Native
+- Expo
 
----
+**Backend**
+- Golang
+- Gin
+
+**Database**
+- PostgreSQL
+
+**DevOps & Tools**
+- Docker
+- Git
+- GitHub
+- Postman
+
+#### Project Goal
+
+To build a scalable platform that helps travelers plan better journeys while enabling local vendors and communities to showcase services, events, and experiences in one ecosystem.
 
 <h3 align="left">Connect with me:</h3>
 
