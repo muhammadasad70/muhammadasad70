@@ -1,33 +1,130 @@
-
 <img src="./software-developer-character-programmer-vector-26310882-4.jpg">
+
 <h1 align="center">Hi 👋, I'm Muhammad Asad</h1>
-<h3 align="center">Computer Science student</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+<h3 align="center">Backend Developer (Golang) | REST APIs | PostgreSQL | Docker</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadasad70&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadasad70" /> </p>
+<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://twitter.com/asad_ch..." target="blank"><img src="https://img.shields.io/twitter/follow/asad_ch...?logo=twitter&style=for-the-badge" alt="asad_ch..." /></a> </p>
-
-- 🔭 I’m currently working on **Multiple Programming languages**<br/>
-
-- 🌱 I’m currently learning **Data Structure**<br/>
-
-- 👯 I’m looking to collaborate on **Blockchain**<br/>
-
-- 📫 How to reach me **muhammadassad7080@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/asad_ch..." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asad_ch..." height="30" width="40" /></a>
-<a href="https://fb.com/muhammad asad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad asad" height="30" width="40" /></a>
-<a href="https://instagram.com/http_.asad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http_.asad" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=muhammadasad70&label=Profile%20Views&color=0e75b6&style=flat" alt="muhammadasad70" />
 </p>
 
+## 🚀 About Me
+
+* 🎓 Computer Science Graduate
+* 💻 Backend-focused developer passionate about scalable and secure systems
+* 🔭 Currently building backend applications and REST APIs using Golang
+* 🌱 Strengthening System Design, Distributed Systems, and DSA
+* 🚀 Open to Backend Developer Opportunities
+* 📫 Reach me at **[muhammadassad7080@gmail.com](mailto:muhammadassad7080@gmail.com)**
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+
+* Golang
+* Gin
+* GORM
+* REST APIs
+* JWT Authentication
+* Modular Backend Architecture
+
+### Database
+
+* PostgreSQL
+* SQL
+
+### Tools & DevOps
+
+* Docker
+* Git
+* GitHub
+* Postman
+
+### Core CS
+
+* Data Structures & Algorithms
+* System Design
+* OOP
+
+---
+
+## 🚀 Featured Project
+
+### TravelMate
+
+A real-time, AI-powered and crowdsourced travel platform focused on intelligent itinerary sharing, event discovery, real-time updates, and role-based user experiences.
+
+**Key Features**
+
+* JWT Authentication
+* Role-Based Access Control
+* Itinerary Management
+* Event Discovery
+* Real-Time Updates
+* PostgreSQL Database Integration
+
+**Tech Stack:** Golang, Gin, PostgreSQL, JWT, Docker
+
+---
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+  <a href="https://linkedin.com/in/masad70" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
+  </a>
+</p>
+
+---
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadasad70&show_icons=true&locale=en&layout=compact" alt="muhammadasad70" /></p>
+<p align="left">
+  <a href="https://go.dev/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+  </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadasad70&show_icons=true&locale=en" alt="muhammadasad70" /></p>
+  <a href="https://gin-gonic.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="gin" width="40" height="40"/>
+  </a>
 
+  <a href="https://gorm.io/" target="_blank" rel="noreferrer">
+    <img src="https://gorm.io/gorm.svg" alt="gorm" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  </a>
+
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadasad70&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadasad70&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
