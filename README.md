@@ -84,7 +84,17 @@ A real-time, AI-powered and crowdsourced travel platform focused on intelligent 
 
 #### Tech Stack
 
-Golang • Gin • PostgreSQL • JWT • Docker
+Golang 
+Gin
+Postgresql
+Jwt
+Docker
+React-native
+Expo
+Travel-app
+Rest-api
+Backend
+Mobile-app
 
 ---
 
