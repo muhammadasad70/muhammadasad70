@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Asad</h1>
 
-<h3 align="center">Backend Developer (Golang) | REST APIs | PostgreSQL | Docker</h3>
+<h3 align="center">Backend Developer (Golang)</h3>
 
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -13,11 +13,21 @@
 ## 🚀 About Me
 
 * 🎓 Computer Science Graduate
-* 💻 Backend-focused developer passionate about scalable and secure systems
+* 💻 Backend-focused developer passionate about building scalable and secure systems
 * 🔭 Currently building backend applications and REST APIs using Golang
-* 🌱 Strengthening System Design, Distributed Systems, and DSA
+* 🌱 Currently learning System Design and Distributed Systems
 * 🚀 Open to Backend Developer Opportunities
 * 📫 Reach me at **[muhammadassad7080@gmail.com](mailto:muhammadassad7080@gmail.com)**
+
+---
+
+## 🎯 Current Focus
+
+* Building scalable backend systems with Golang
+* Designing RESTful APIs and authentication systems
+* Learning System Design and Distributed Systems
+* Improving problem-solving through DSA
+* Exploring Docker and deployment workflows
 
 ---
 
@@ -30,7 +40,6 @@
 * GORM
 * REST APIs
 * JWT Authentication
-* Modular Backend Architecture
 
 ### Database
 
@@ -44,21 +53,21 @@
 * GitHub
 * Postman
 
-### Core CS
+### Computer Science
 
 * Data Structures & Algorithms
 * System Design
-* OOP
+* Object-Oriented Programming (OOP)
 
 ---
 
 ## 🚀 Featured Project
 
-### TravelMate
+### TravelMate – AI-Powered Travel Platform
 
 A real-time, AI-powered and crowdsourced travel platform focused on intelligent itinerary sharing, event discovery, real-time updates, and role-based user experiences.
 
-**Key Features**
+#### Key Features
 
 * JWT Authentication
 * Role-Based Access Control
@@ -67,14 +76,16 @@ A real-time, AI-powered and crowdsourced travel platform focused on intelligent 
 * Real-Time Updates
 * PostgreSQL Database Integration
 
-**Tech Stack:** Golang, Gin, PostgreSQL, JWT, Docker
+#### Tech Stack
+
+Golang • Gin • PostgreSQL • JWT • Docker
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/masad70" target="blank">
+  <a href="https://linkedin.com/in/masad70" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
   </a>
 </p>
@@ -84,47 +95,41 @@ A real-time, AI-powered and crowdsourced travel platform focused on intelligent 
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <a href="https://go.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  </a>
 
-  <a href="https://gin-gonic.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="gin" width="40" height="40"/>
-  </a>
+<a href="https://go.dev/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+</a>
 
-  <a href="https://gorm.io/" target="_blank" rel="noreferrer">
-    <img src="https://gorm.io/gorm.svg" alt="gorm" width="40" height="40"/>
-  </a>
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+</a>
 
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  </a>
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+</a>
 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  </a>
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</a>
 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  </a>
+<a href="https://github.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+</a>
 
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
+<a href="https://www.postman.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</a>
 
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadasad70&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadasad70&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadasad70" alt="GitHub Streak" />
 </p>
