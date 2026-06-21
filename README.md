@@ -14,8 +14,8 @@
 
 * 🎓 Computer Science Graduate
 * 💻 Backend-focused developer passionate about building scalable and secure systems
-* 🔭 Currently building backend applications and REST APIs using Golang
-* 🌱 Currently learning System Design and Distributed Systems
+* 🔭 Currently building Go-based backend systems, authentication services, and REST APIs
+* 🌱 Currently learning System Design, Distributed Systems, Authentication Architecture, and Backend Security
 * 🚀 Open to Backend Developer Opportunities
 * 📫 Reach me at **[muhammadassad7080@gmail.com](mailto:muhammadassad7080@gmail.com)**
 
@@ -25,9 +25,9 @@
 
 * Building scalable backend systems with Golang
 * Designing RESTful APIs and authentication systems
-* Learning System Design and Distributed Systems
+* Learning authentication, authorization, JWT, refresh tokens, and RBAC
 * Improving problem-solving through DSA
-* Exploring Docker and deployment workflows
+* Exploring Docker, Redis, PostgreSQL, and deployment workflows
 
 ---
 
@@ -40,11 +40,17 @@
 * GORM
 * REST APIs
 * JWT Authentication
+* Middleware
+* RBAC
 
 ### Database
 
 * PostgreSQL
 * SQL
+
+### Cache & Sessions
+
+* Redis
 
 ### Tools & DevOps
 
@@ -60,41 +66,61 @@
 * Object-Oriented Programming (OOP)
 
 ---
-## 🚀 Featured Project
 
-### TravelMate – AI-Powered Travel & Local Experience Platform
+## 🚀 Featured Projects
 
-TravelMate is a full-stack travel platform designed to connect travelers, local vendors, and communities through intelligent trip planning and real-time travel experiences.
+### GoAuth – Authentication & Authorization Service
 
-The platform enables users to discover destinations, share itineraries, collaborate on trips, explore local events, connect with service providers, and receive personalized travel recommendations.
+GoAuth is a production-style authentication service focused on secure user management, JWT authentication, refresh tokens, RBAC, Redis sessions, email verification, password reset, and clean backend architecture.
 
 #### Key Features
 
-- JWT Authentication & Authorization
-- Multi-Role System (Traveler, Vendor, Admin)
-- AI-Powered Travel Recommendations
-- Crowdsourced Itinerary Sharing
-- Collaborative Group Trip Planning
-- Event Discovery & Notifications
-- Real-Time Travel Updates
-- Vendor & Service Provider Integration
-- Social Features (Posts, Comments, Likes, Follow System)
-- Cultural Exchange & Community Interaction
-- Offline Access Support
+- User Registration & Login
+- JWT Authentication
+- Refresh Tokens
+- Role-Based Access Control
+- Redis Session Management
+- Email Verification
+- Password Reset
+- Rate Limiting
+- Clean Architecture
+- Docker Support
+
+#### Tech Stack
+
+**Backend**
+- Golang
+- Gin
+
+**Database**
+- PostgreSQL
+
+**Cache**
+- Redis
+
+**DevOps & Tools**
+- Docker
+- GitHub
+- Postman
+
+---
+
+### TradeMate – Trading Journal & Risk Management Platform
+
+TradeMate is a full-stack trading journal and risk management platform built to help traders record trades, track performance, analyze mistakes, and improve trading discipline.
+
+#### Key Features
+
+- User Authentication
+- Trade Journaling
+- Risk Management
+- Position Size Calculation
+- Profit & Loss Tracking
+- Emotion Tracking
+- Mistake Analysis
+- Weekly & Monthly Reviews
 - PostgreSQL Database Integration
 - RESTful API Architecture
-- Cross-Platform Mobile Application
-
-#### Technical Highlights
-
-- Clean Backend Architecture (Handlers, Services, Repositories)
-- JWT Authentication Middleware
-- PostgreSQL Relational Database Design
-- REST API Development using Golang & Gin
-- Mobile Frontend using React Native & Expo
-- Dockerized Development Environment
-- Real-Time Data Integration
-- Role-Based Access Control (RBAC)
 
 #### Tech Stack
 
@@ -115,9 +141,46 @@ The platform enables users to discover destinations, share itineraries, collabor
 - GitHub
 - Postman
 
-#### Project Goal
+---
 
-To build a scalable platform that helps travelers plan better journeys while enabling local vendors and communities to showcase services, events, and experiences in one ecosystem.
+### TravelMate – AI-Powered Travel & Local Experience Platform
+
+TravelMate is a full-stack travel platform designed to connect travelers, local vendors, and communities through intelligent trip planning and real-time travel experiences.
+
+#### Key Features
+
+- JWT Authentication & Authorization
+- Multi-Role System
+- AI-Powered Travel Recommendations
+- Crowdsourced Itinerary Sharing
+- Collaborative Group Trip Planning
+- Event Discovery & Notifications
+- Vendor & Service Provider Integration
+- Social Features
+- PostgreSQL Database Integration
+- RESTful API Architecture
+- Cross-Platform Mobile Application
+
+#### Tech Stack
+
+**Frontend**
+- React Native
+- Expo
+
+**Backend**
+- Golang
+- Gin
+
+**Database**
+- PostgreSQL
+
+**DevOps & Tools**
+- Docker
+- Git
+- GitHub
+- Postman
+
+---
 
 <h3 align="left">Connect with me:</h3>
 
@@ -139,6 +202,10 @@ To build a scalable platform that helps travelers plan better journeys while ena
 
 <a href="https://www.postgresql.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+</a>
+
+<a href="https://redis.io/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
 </a>
 
 <a href="https://www.docker.com/" target="_blank">
