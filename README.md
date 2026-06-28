@@ -192,10 +192,6 @@ Full-stack travel platform designed to connect travelers, local vendors, and com
   </a>
 </p>
 
----
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
