@@ -206,12 +206,6 @@ Full-stack travel platform designed to connect travelers, local vendors, and com
 
 ## 📈 Contribution Graph
 
-[![Muhammad Asad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadasad70&theme=github-compact)](https://github.com/muhammadasad70)
-
----
-
-## 🏆 GitHub Trophies
-
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadasad70&theme=algolia&no-frame=true&margin-w=15&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadasad70&theme=github-compact&hide_border=true" alt="Muhammad Asad's GitHub Contribution Graph" />
 </p>
