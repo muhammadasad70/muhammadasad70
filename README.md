@@ -194,14 +194,6 @@ Full-stack travel platform designed to connect travelers, local vendors, and com
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadasad70&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadasad70&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
 ---
 
 ## 📈 Contribution Graph
