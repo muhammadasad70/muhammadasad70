@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Asad</h1>
 
-<h3 align="center">Backend Developer (Golang)</h3>
+<h3 align="center">Backend Developer (Go)</h3>
 
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -10,60 +10,81 @@
   <img src="https://komarev.com/ghpvc/?username=muhammadasad70&label=Profile%20Views&color=0e75b6&style=flat" alt="muhammadasad70" />
 </p>
 
+---
+
 ## 🚀 About Me
 
-* 🎓 Computer Science Graduate
-* 💻 Backend-focused developer passionate about building scalable and secure systems
-* 🔭 Currently building Go-based backend systems, authentication services, and REST APIs
-* 🌱 Currently learning System Design, Distributed Systems, Authentication Architecture, and Backend Security
-* 🚀 Open to Backend Developer Opportunities
-* 📫 Reach me at **[muhammadassad7080@gmail.com](mailto:muhammadassad7080@gmail.com)**
+- 🎓 Computer Science Graduate
+- 💻 Backend Developer specializing in Go
+- 🔨 Building production-style backend applications with RESTful APIs, JWT authentication, PostgreSQL, Redis, and Docker
+- 🚀 Experienced in debugging, application support, Go concurrency, and backend architecture
+- 🧠 Strong foundation in Data Structures & Algorithms, Object-Oriented Programming, and System Design
+- 🌍 Open to Backend Developer Opportunities
+- 📫 Reach me at **[muhammadassad7080@gmail.com](mailto:muhammadassad7080@gmail.com)**
 
 ---
 
 ## 🎯 Current Focus
 
-* Building scalable backend systems with Golang
-* Designing RESTful APIs and authentication systems
-* Learning authentication, authorization, JWT, refresh tokens, and RBAC
-* Improving problem-solving through DSA
-* Exploring Docker, Redis, PostgreSQL, and deployment workflows
+- Building production-style backend applications with Go
+- Designing secure authentication and authorization systems
+- Developing RESTful APIs using Gin
+- Implementing Redis caching and session management
+- Applying Clean Architecture and Repository Pattern
+- Solving DSA problems and strengthening System Design fundamentals
 
 ---
 
 ## 🛠 Tech Stack
 
+### Programming Languages
+
+- Go
+- JavaScript
+- TypeScript
+- Java
+- C++
+
 ### Backend
 
-* Golang
-* Gin
-* GORM
-* REST APIs
-* JWT Authentication
-* Middleware
-* RBAC
+- Gin
+- GORM
+- RESTful APIs
+- JWT Authentication
+- RBAC
+- Middleware
+- API Design
 
-### Database
+### Concurrency
 
-* PostgreSQL
-* SQL
+- Goroutines
+- Channels
+- Mutexes
+- Context
 
-### Cache & Sessions
+### Databases
 
-* Redis
+- PostgreSQL
+- SQL
+- Redis
 
-### Tools & DevOps
+### DevOps & Tools
 
-* Docker
-* Git
-* GitHub
-* Postman
+- Docker
+- Git
+- GitHub
+- Linux
+- Postman
+- CI/CD
 
 ### Computer Science
 
-* Data Structures & Algorithms
-* System Design
-* Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Clean Architecture
+- Repository Pattern
+- System Design Fundamentals
+- Distributed Systems Fundamentals
 
 ---
 
@@ -71,9 +92,9 @@
 
 ### GoAuth – Authentication & Authorization Service
 
-GoAuth is a production-style authentication service focused on secure user management, JWT authentication, refresh tokens, RBAC, Redis sessions, email verification, password reset, and clean backend architecture.
+Production-style authentication service focused on secure user management, JWT authentication, refresh tokens, RBAC, Redis sessions, email verification, password reset, and clean backend architecture.
 
-#### Key Features
+**Key Features**
 
 - User Registration & Login
 - JWT Authentication
@@ -83,35 +104,18 @@ GoAuth is a production-style authentication service focused on secure user manag
 - Email Verification
 - Password Reset
 - Rate Limiting
-- Clean Architecture
 - Docker Support
 
-#### Tech Stack
-
-**Backend**
-- Golang
-- Gin
-
-**Database**
-- PostgreSQL
-
-**Cache**
-- Redis
-
-**DevOps & Tools**
-- Docker
-- GitHub
-- Postman
+**Tech Stack:** Go • Gin • PostgreSQL • Redis • Docker
 
 ---
 
 ### TradeMate – Trading Journal & Risk Management Platform
 
-TradeMate is a full-stack trading journal and risk management platform built to help traders record trades, track performance, analyze mistakes, and improve trading discipline.
+Full-stack trading journal and risk management platform built to help traders record trades, track performance, analyze mistakes, and improve trading discipline.
 
-#### Key Features
+**Key Features**
 
-- User Authentication
 - Trade Journaling
 - Risk Management
 - Position Size Calculation
@@ -119,35 +123,17 @@ TradeMate is a full-stack trading journal and risk management platform built to 
 - Emotion Tracking
 - Mistake Analysis
 - Weekly & Monthly Reviews
-- PostgreSQL Database Integration
 - RESTful API Architecture
 
-#### Tech Stack
-
-**Frontend**
-- React Native
-- Expo
-
-**Backend**
-- Golang
-- Gin
-
-**Database**
-- PostgreSQL
-
-**DevOps & Tools**
-- Docker
-- Git
-- GitHub
-- Postman
+**Tech Stack:** React Native • Go • Gin • PostgreSQL • Docker
 
 ---
 
 ### TravelMate – AI-Powered Travel & Local Experience Platform
 
-TravelMate is a full-stack travel platform designed to connect travelers, local vendors, and communities through intelligent trip planning and real-time travel experiences.
+Full-stack travel platform designed to connect travelers, local vendors, and communities through intelligent trip planning and real-time travel experiences.
 
-#### Key Features
+**Key Features**
 
 - JWT Authentication & Authorization
 - Multi-Role System
@@ -159,26 +145,8 @@ TravelMate is a full-stack travel platform designed to connect travelers, local 
 - Social Features
 - PostgreSQL Database Integration
 - RESTful API Architecture
-- Cross-Platform Mobile Application
 
-#### Tech Stack
-
-**Frontend**
-- React Native
-- Expo
-
-**Backend**
-- Golang
-- Gin
-
-**Database**
-- PostgreSQL
-
-**DevOps & Tools**
-- Docker
-- Git
-- GitHub
-- Postman
+**Tech Stack:** React Native • Go • Gin • PostgreSQL • Docker
 
 ---
 
@@ -195,45 +163,53 @@ TravelMate is a full-stack travel platform designed to connect travelers, local 
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
+  <a href="https://go.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+  </a>
 
-<a href="https://go.dev/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-</a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  </a>
 
-<a href="https://www.postgresql.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-</a>
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+  </a>
 
-<a href="https://redis.io/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
-</a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  </a>
 
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-</a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  </a>
 
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  </a>
 
-<a href="https://github.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-</a>
-
-<a href="https://www.postman.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</a>
-
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Statistics
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadasad70&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadasad70&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadasad70&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadasad70" alt="GitHub Streak" />
-</p>
+---
+
+## 📈 Contribution Graph
+
+[![Muhammad Asad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadasad70&theme=github-compact)](https://github.com/muhammadasad70)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=muhammadasad70&theme=flat&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
